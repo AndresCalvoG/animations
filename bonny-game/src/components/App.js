@@ -1,12 +1,8 @@
-import Container from "./Container";
-import "./App.css";
+import Phone from "./Phone.js";
+import "./styles/App.css";
 
 function App() {
-  return (
-    <div className="App">
-      <Container />
-    </div>
-  );
+  return <Phone />;
 }
 
 export default App;

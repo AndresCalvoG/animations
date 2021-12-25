@@ -1,0 +1,32 @@
+.layer-8__left-lawn {
+  background: var(--dark-green);
+  border-radius: 40px 40px 0 0;
+  bottom: 0;
+  display: inline-block;
+  height: 70%;
+  left: 0;
+  position: absolute;
+  width: 80px;
+}
+
+.layer-8__center-lawn {
+  background: var(--dark-green);
+  border-radius: 40px 40px 0 0;
+  bottom: 0;
+  display: inline-block;
+  height: 100%;
+  left: 60px;
+  position: absolute;
+  width: 80px;
+}
+
+.layer-8__right-lawn {
+  background: var(--dark-green);
+  border-radius: 40px 40px 0 0;
+  bottom: 0;
+  display: inline-block;
+  height: 80%;
+  left: 130px;
+  position: absolute;
+  width: 80px;
+}

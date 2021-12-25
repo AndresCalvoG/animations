@@ -1,0 +1,20 @@
+.layer-10__left-cloud {
+  background: white;
+  border-radius: 40px 0 0 30px;
+  bottom: 0;
+  display: inline-block;
+  height: 60%;
+  right: 80px;
+  position: absolute;
+  width: 40px;
+}
+
+.layer-10__right-cloud {
+  background: white;
+  border-radius: 40px 40px 0 0;
+  display: inline-block;
+  height: 100%;
+  right: 0px;
+  position: absolute;
+  width: 80px;
+}
